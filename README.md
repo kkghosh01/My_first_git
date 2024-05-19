@@ -1,1 +1,2 @@
-# My_first_git
+# learning git project
+thi is my first git project
