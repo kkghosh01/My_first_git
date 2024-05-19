@@ -1,2 +1,2 @@
 # learning git project
-thi is my first git project
+this is my first git projec
